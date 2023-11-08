@@ -1,0 +1,8 @@
+setup.py
+mypkg/__init__.py
+vscode_python_test.egg-info/PKG-INFO
+vscode_python_test.egg-info/SOURCES.txt
+vscode_python_test.egg-info/dependency_links.txt
+vscode_python_test.egg-info/entry_points.txt
+vscode_python_test.egg-info/requires.txt
+vscode_python_test.egg-info/top_level.txt
